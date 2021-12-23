@@ -12,13 +12,10 @@ function Project() {
         <p className="heading p__color">
             "반복과 학습"
         </p>
-        <p>
-          /""/
-        </p>
         <p className="heading p__color">
-          "가,나,다,라 따라 쓸 줄 알아야 글씨를 쓰듯, <br></br>
-          클론 코딩을 이용해 프로세스를 익히고<br></br>
-           새로운 것에 도전해봅니다."
+          "문서, 책, 영상 등을 통해 기술을 익히며  <br></br>
+          '왜' 쓰이는지에 대해 의문을 갖고<br></br>
+           내 것으로 만들어냅니다."
         </p>
       </div>
         <div className="container">
