@@ -12,7 +12,7 @@ function Home() {
   });
 
   // Toogle Menu
-  const [show, setShow] = useState(true);
+  const [show, setShow] = useState(false);
 
   return (
     <div className="home" id="Home">

@@ -10,7 +10,7 @@ function footer() {
           <p>Email : 48xx@naver.com</p>
           <br></br>
           
-          <p>copyrightⓒ 2008 All rights reserved by Yupsign</p>
+          <p>copyrightⓒ 2021 All rights reserved by Yupsign</p>
         </div>
       </div>
   </div>

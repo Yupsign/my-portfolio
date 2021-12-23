@@ -1,5 +1,5 @@
 .home_bg{
-  background-image: url(C:\Users\migut\vscode\react-second-app\src\images/bg.jpg);
+  background-image: url(C:\Users\migut\vscode\my-portfolio\src\images/bg.jpg);
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -64,7 +64,7 @@ h4.home__text {
 }
 
 ul.sidebar.d__flex {
-  opacity: 90%;
+  opacity: 1;
   flex-wrap: wrap;
   height: 100%;
   position: fixed;
@@ -124,7 +124,7 @@ li.sideNavbar {
       padding: 13px 0px;
     }
     ul.sidebar.d__flex {
-      opacity: 90%;
+      opacity: 1;
       flex-wrap: wrap;
       height: 100%;
       position: fixed;

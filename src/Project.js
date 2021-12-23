@@ -1,6 +1,8 @@
 import React from 'react'
 import './Project.css'
 import Project1 from './images/portfolio-1.png'
+import Project2 from './images/portfolio-2.png'
+import Project3 from './images/portfolio-3.png'
 
 function Project() {
   return (
@@ -42,14 +44,14 @@ function Project() {
                   <div className="project__box relative">
                       <div className="porject__box__img pointer relative">
                           <div className="project__img__box">
-                              <img src={Project1} alt="" className="project__img" />
+                              <img src={Project2} alt="" className="project__img" />
                           </div>
                           <div className="mask__effect"> 
                           </div>
                       </div>
                       <div className="project__meta absolute">
-                          <h5 className="project__text">토익 단어장 </h5>
-                          <h4 className="project__text">"암기도 계획적으로 하세요."</h4>
+                          <h5 className="project__text">ToDo List </h5>
+                          <h4 className="project__text">"오늘 할 일을 적어두세요"</h4>
                           <a href="#" className="project__btn">View Details</a>
                       </div>
                   </div>
@@ -59,14 +61,14 @@ function Project() {
                   <div className="project__box relative">
                       <div className="porject__box__img pointer relative">
                           <div className="project__img__box">
-                              <img src={Project1} alt="" className="project__img" />
+                              <img src={Project3} alt="" className="project__img" />
                           </div>
                           <div className="mask__effect"> 
                           </div>
                       </div>
                       <div className="project__meta absolute">
-                          <h5 className="project__text">토익 단어장 </h5>
-                          <h4 className="project__text">"암기도 계획적으로 하세요."</h4>
+                          <h5 className="project__text">어디로 가야하오 </h5>
+                          <h4 className="project__text">"친구들과 어떻게 놀지 고민인가요?"</h4>
                           <a href="#" className="project__btn">View Details</a>
                       </div>
                   </div>
@@ -74,7 +76,7 @@ function Project() {
             </div>
         </div>
         <div className="view__more__btn d__flex align__items__center justify__content__center pxy__30">
-                <a href="https://github.com/Yupsign?tab=repositories"><button className="view__more pointer btn">View more</button></a>
+                <a href="https://github.com/Yupsign?tab=repositories"><button className="view__more pointer btn">Code page</button></a>
               </div>
     </div>
   )

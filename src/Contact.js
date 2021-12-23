@@ -10,7 +10,7 @@ function Contact() {
           <div className="contact__box">
             <div className="contact__meta">
               <h1 className="hire__text">Contact Me</h1>
-              <p className="hire__text white"><strong>+ 82 10 9574 1392</strong> or email <strong>48xx@naver.com</strong></p>
+              <p className="hire__text white"><strong>010 9574 1392</strong> or email <strong>48xx@naver.com</strong></p>
             </div>
             <div className="input__box">
               <input type="text" className="contact name" placeholder="이름 *" />

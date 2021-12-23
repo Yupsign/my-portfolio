@@ -125,7 +125,7 @@ button.btn {
   transition: .4s all ease;
   height: 50px;
   width: 180px;
-  margin: 0px 10px;
+  margin: 0px 0px;
 }
 .p__color {
   color: rgba(198,201,216,.75);
