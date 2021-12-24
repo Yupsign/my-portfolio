@@ -47,9 +47,9 @@ function Project() {
                           </div>
                       </div>
                       <div className="project__meta absolute">
-                          <h5 className="project__text">ToDo List </h5>
+                          <h5 className="project__text">일과표 작성 앱</h5>
                           <h4 className="project__text">"오늘 할 일을 적어두세요"</h4>
-                          <a href="#" className="project__btn">View Details</a>
+                          <a href="https://yupsign.github.io/my-todolist/" className="project__btn">View Details</a>
                       </div>
                   </div>
               </div>
@@ -64,8 +64,8 @@ function Project() {
                           </div>
                       </div>
                       <div className="project__meta absolute">
-                          <h5 className="project__text">어디로 가야하오 </h5>
-                          <h4 className="project__text">"친구들과 어떻게 놀지 고민인가요?"</h4>
+                          <h5 className="project__text">(관리자) 회원 정보 관리앱</h5>
+                          <h4 className="project__text">"회원 정보를 보다 편하게 관리하세요"</h4>
                           <a href="#" className="project__btn">View Details</a>
                       </div>
                   </div>
