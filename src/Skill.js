@@ -6,9 +6,9 @@ function Skill() {
     <div className="skill component__space" id="Skill">
         <div className="heading">
            <h1 className="heading">Awesome Skill</h1>
-           <p className="heading p__color heading__text">"정직과 배움의 자세"</p>
-           <p className="heading p__color">"조금 아는것을 과장하지 않으며<br></br>  나의 능력을 객관적으로 인지하고<br></br> 
-            오늘의 나보다 더 성장하는 <br></br> 내일의 내가 될수있도록 노력합니다."
+           <p className="heading p__color">"정직과 배움의 자세"<br></br><br></br>
+           "조금 아는것을 과장하지 않으며 나의 능력을 객관적으로 인지하고<br></br> 
+            오늘의 나보다 더 성장하는 내일의 내가 될수있도록 노력합니다."
            </p>
         </div>
         <div className="container">
